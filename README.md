@@ -16,9 +16,9 @@ Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovatio
   </picture>
 
   <picture>
-    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true&layout=stacked">
-    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true" alt="Streak Stats" width="100%">
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=chartreuse-dark&hide_border=true&layout=stacked">
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=chartreuse-dark&hide_border=true">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=chartreuse-dark&hide_border=true" alt="Streak Stats" width="100%">
   </picture>
 
   <picture>
