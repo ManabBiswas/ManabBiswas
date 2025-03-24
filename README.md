@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=44&duration=5050&pause=1000&color=0095F7&repeat=true&width=444&height=89&lines=Welcome+Coders+👋;Hi,+I'm+Manab+Biswas+👋;I'm+a+Web-Developer)
-
+-
 Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovation.
 
 ## 🚀 My GitHub Contribution Chart
@@ -16,8 +16,8 @@ Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovatio
   </picture>
 
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true&layout=stacked">
-    <source media="(min-width: 769px)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true">
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true&layout=stacked">
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true">
     <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true" alt="Streak Stats" width="100%">
   </picture>
 
@@ -28,27 +28,7 @@ Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovatio
   </picture>
 </div>
 
-<style>
-@media (min-width: 769px) {
-  picture {
-    display: inline-block;
-    width: calc(50% - 10px);
-    margin: 5px;
-  }
-  picture:last-child {
-    width: 100%;
-  }
-}
-@media (max-width: 768px) {
-  picture {
-    display: block;
-    width: 100%;
-    margin-bottom: 10px;
-  }
-}
-</style>
-
-## 🏆 Achievements
+## 🏆 Achievements🎯
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ManabBiswas&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
@@ -58,7 +38,7 @@ Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovatio
 
 I enjoy crafting creative solutions and exploring the fascinating realms of Web technology! 🚀
 
-## 📫 Connect with Me
+## 📫 Connect with Me🔗
 
 <div align="center">
   <a href="https://discordapp.com/users/manab_the_humansaver" target="_blank">
