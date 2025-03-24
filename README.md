@@ -1,6 +1,8 @@
+# Welcome Coders 👋
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=44&duration=5050&pause=1000&color=0095F7&repeat=true&width=444&height=89&lines=Hi,+Coders+👋;I'm+Manab+Biswas;I'm+a+Web-Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=44&duration=5050&pause=1000&color=0095F7&repeat=true&width=444&height=89&lines=Welcome+Coders+👋;Hi,+I'm+Manab+Biswas;I'm+a+Web-Developer;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,9 +14,9 @@ Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovatio
 
 <details open>
   <summary>🌟 My Activity</summary>
-  <p align="center">
+  <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManabBiswas&theme=github-compact&area=true&hide_border=true&custom_title=My Contribution Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1" alt="GitHub Contribution Graph" />
-  </p>
+  </div>
 </details>
 
 ---
