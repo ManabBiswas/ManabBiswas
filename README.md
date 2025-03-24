@@ -9,11 +9,8 @@ Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovatio
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark&layout=stacked">
-    <source media="(min-width: 769px)" srcset="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark">
     <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
-  </picture>
+
 
   <picture>
     <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true&layout=stacked">
