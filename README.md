@@ -6,7 +6,7 @@ Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovatio
 
 [![Manab's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManabBiswas&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/ManabBiswas/github-readme-activity-graph)
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats 🔥
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
