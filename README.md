@@ -1,6 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=44&duration=5050&pause=1000&color=0095F7&repeat=true&width=444&height=89&lines=Welcome+Coders+👋;Hi,+I'm+Manab+Biswas+👋;I'm+a+Web-Developer)
 -
 Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovation.
+## 👨‍💻 About Me
+I'm a passionate web developer focused on creating innovative and efficient solutions. I enjoy exploring new technologies and continuously expanding my skill set to build better digital experiences.
+
+🔭 Currently working on improving my full-stack development skills.
+
+🌱 Learning advanced JavaScript frameworks and cloud technologies.
+
+💡 Interested in UI/UX design principles and web accessibility.
+🚀 Always eager to collaborate on interesting projects.
 
 ## 🚀 My GitHub Contribution Chart
 
