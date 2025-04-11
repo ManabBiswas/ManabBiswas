@@ -9,6 +9,7 @@ I'm a passionate web developer focused on creating innovative and efficient solu
 🌱 Learning advanced JavaScript frameworks and cloud technologies.
 
 💡 Interested in UI/UX design principles and web accessibility.
+
 🚀 Always eager to collaborate on interesting projects.
 
 ## 🚀 My GitHub Contribution Chart
