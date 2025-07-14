@@ -29,9 +29,7 @@ I'm a passionate web developer focused on creating innovative and efficient solu
   </picture>
 
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ManabBiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-    <source media="(min-width: 769px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ManabBiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManabBiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=true" alt ="top-used-languages" width="100%">
   </picture>
 </div>
 
