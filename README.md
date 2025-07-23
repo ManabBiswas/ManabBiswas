@@ -19,7 +19,7 @@ I'm a passionate web developer focused on creating innovative and efficient solu
 ## 🔥 GitHub Stats 🔥
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=holi" alt="GitHub Stats" width="100%">
 
 
   <picture>
