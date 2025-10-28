@@ -29,7 +29,7 @@ I'm a passionate web developer focused on creating innovative and efficient solu
   </picture>
 
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=true" alt ="top-used-languages" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=true&langs_count=8" alt ="top-used-languages" width="100%">
   </picture>
 </div>
 
