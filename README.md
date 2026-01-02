@@ -36,7 +36,7 @@ I'm a passionate web developer focused on creating innovative and efficient solu
 ## 🏆 Achievements🎯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManabBiswas&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManabBiswas&theme=onedark" alt="GitHub Trophies">
 </div>
 
 ## ✨ Fun Fact
