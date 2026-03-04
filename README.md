@@ -39,6 +39,11 @@ I'm a passionate web developer focused on creating innovative and efficient solu
   <img src="https://github-profile-trophy.vercel.app/?username=ManabBiswas&theme=onedark&margin-w=10" alt="GitHub Trophies">
 </div>
 
+<h3 align="left">Holopin Badges</h3>
+<a href="https://holopin.io/@manabbiswas">
+    <img src="https://holopin.me/manabbiswas" alt="An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile">
+</a>
+
 ## ✨ Fun Fact
 
 I enjoy crafting creative solutions and exploring the fascinating realms of Web technology! 🚀
