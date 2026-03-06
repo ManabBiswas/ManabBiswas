@@ -16,6 +16,10 @@ I'm a passionate web developer focused on creating innovative and efficient solu
 
 [![Manab's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManabBiswas&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/ManabBiswas/github-readme-activity-graph)
 
+  <picture>
+    <source srcset="https://ssr-contributions-svg.vercel.app/_/ManabBiswas?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=50&theme=blue&widget_size=medium&dark=true">
+  </picture>
+
 ## 🔥 GitHub Stats 🔥
 
 <div align="center">
