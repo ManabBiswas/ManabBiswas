@@ -1,8 +1,13 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=44&duration=5050&pause=1000&color=0095F7&repeat=true&width=444&height=89&lines=Welcome+Coders+👋;Hi,+I'm+Manab+Biswas+👋;I'm+a+Web-Developer)
--
-Welcome to my GitHub profile! ✨ Let's explore my journey in tech and innovation.
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=44&duration=5050&pause=1000&color=0095F7&repeat=true&width=444&height=89&lines=Welcome+Coders+👋;Hi,+I'm+Manab+Biswas+👋;I'm+a+Web-Developer)
+
+Welcome to my GitHub profile! ✨ Let's explore my journey in tech and
+innovation.
+
 ## 👨‍💻 About Me
-I'm a passionate web developer focused on creating innovative and efficient solutions. I enjoy exploring new technologies and continuously expanding my skill set to build better digital experiences.
+
+I'm a passionate web developer focused on creating innovative and efficient
+solutions. I enjoy exploring new technologies and continuously expanding my
+skill set to build better digital experiences.
 
 🔭 Currently working on improving my full-stack development skills.
 
@@ -16,16 +21,13 @@ I'm a passionate web developer focused on creating innovative and efficient solu
 
 [![Manab's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManabBiswas&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/ManabBiswas/github-readme-activity-graph)
 
-  <picture>
-    <source srcset="https://ssr-contributions-svg.vercel.app/_/ManabBiswas?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=50&animation_duration=3&animation_loop=true&theme=blue&widget_size=medium&dark=true&format=svg">
-    <img src="https://ssr-contributions-svg.vercel.app/_/ManabBiswas?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=50&animation_duration=3&animation_loop=true&theme=blue&widget_size=medium&dark=true&format=svg" alt="3D Contribution Chart" width="100%">
-  </picture>
-
-## 🔥 GitHub Stats 🔥
+## 🎯 My GitHub Stats🔥
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=holi" alt="GitHub Stats" width="100%">
-
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=holi" alt="GitHub Stats" width="100%"> -->
+  <a href="https://git.io/awesome-stats-card" target="_blank">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ManabBiswas?cardType=level&theme=tokyonight&fontFamily=Crimson%20Pro&preferLogin=false&Points.DirectStars=2&Points.IndirectStars=0&borderRadius=8" alt="My Awesome Stats" width="100%">
+  </a>
 
   <picture>
     <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true&layout=stacked">
@@ -33,9 +35,11 @@ I'm a passionate web developer focused on creating innovative and efficient solu
     <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true" alt="Streak Stats" width="100%">
   </picture>
 
-  <picture>
+  <!-- <picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=true&langs_count=8" alt ="top-used-languages" width="100%">
-  </picture>
+  </picture> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Repos Per Language" width="49%" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Most Commit Language" width="49%">
 </div>
 
 ## 🏆 Achievements🎯
@@ -51,7 +55,8 @@ I'm a passionate web developer focused on creating innovative and efficient solu
 
 ## ✨ Fun Fact
 
-I enjoy crafting creative solutions and exploring the fascinating realms of Web technology! 🚀
+I enjoy crafting creative solutions and exploring the fascinating realms of Web
+technology! 🚀
 
 ## 📫 Connect with Me🔗
 
