@@ -29,20 +29,20 @@ skill set to build better digital experiences.
 ## 🎯 My GitHub Stats🔥
 
 <div align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=holi" alt="GitHub Stats" width="100%"> -->
-  <a href="https://git.io/awesome-stats-card" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=ManabBiswas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=holi" alt="GitHub Stats" width="100%">
+  <!-- <a href="https://git.io/awesome-stats-card" target="_blank">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ManabBiswas?cardType=level&theme=tokyonight&fontFamily=Crimson%20Pro&preferLogin=false&Points.DirectStars=2&Points.IndirectStars=0&borderRadius=8" alt="My Awesome Stats" width="100%">
-  </a>
+  </a> -->
 
   <picture>
-    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true&layout=stacked">
-    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=true" alt="Streak Stats" width="100%">
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=false&layout=stacked">
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=false">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ManabBiswas&count_private=true&theme=react&hide_border=false" alt="Streak Stats" width="100%">
   </picture>
 
-  <!-- <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=true&langs_count=8" alt ="top-used-languages" width="100%">
-  </picture> -->
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=false&langs_count=8" alt ="top-used-languages" width="100%">
+  </picture>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Repos Per Language" width="49%" >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Most Commit Language" width="49%">
 </div>
