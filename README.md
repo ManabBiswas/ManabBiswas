@@ -41,8 +41,8 @@ skill set to build better digital experiences.
   </picture>
 
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=false&langs_count=8" alt ="top-used-languages" width="100%">
-  </picture>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=false&langs_count=8" alt ="top-used-languages" width="100%"> -->
+  <!-- </picture> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Repos Per Language" width="49%" >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Most Commit Language" width="49%">
 </div>
@@ -50,12 +50,13 @@ skill set to build better digital experiences.
 ## 🏆 Achievements🎯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManabBiswas&theme=onedark&margin-w=10" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=ManabBiswas&theme=onedark&margin-w=10" alt="GitHub Trophies">
+  <!-- <img src="https://github-trophies.vercel.app/?username=ManabBiswas&theme=onedark&margin-w=10" alt="GitHub Trophies"> -->
 </div>
 
 <h3 align="left">Holopin Badges</h3>
 <a href="https://holopin.io/@manabbiswas">
-    <img src="https://holopin.me/manabbiswas" alt="An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile">
+    <img src="https://holopin.me/manabbiswas" alt="An image of @ManabBiswas's Holopin badges, which is a link to view their full Holopin profile">
 </a>
 
 ## ✨ Fun Fact
