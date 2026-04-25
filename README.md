@@ -41,10 +41,10 @@ skill set to build better digital experiences.
   </picture>
 
   <picture>
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=false&langs_count=8" alt ="top-used-languages" width="100%"> -->
-  <!-- </picture> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Repos Per Language" width="49%" >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Most Commit Language" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabBiswas&layout=compact&theme=react&hide_border=false&langs_count=8" alt ="top-used-languages" width="100%">
+  </picture> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Repos Per Language" width="49.5%" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManabBiswas&theme=holi&langs_count=8" alt="Most Commit Language" width="49.5%">
 </div>
 
 ## 🏆 Achievements🎯
